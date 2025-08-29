@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 
 
@@ -198,3 +198,5 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
+
+
